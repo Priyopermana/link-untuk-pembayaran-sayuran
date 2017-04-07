@@ -31,6 +31,6 @@ a:active {
 
 <body>
 
-<a haref="https://priyopermana.github.io/Agrilink/">Form Pembayaran</a>
+<a href="https://priyopermana.github.io/Agrilink/">Form Pembayaran</a>
 
 </body>
