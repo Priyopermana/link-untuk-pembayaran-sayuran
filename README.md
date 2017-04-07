@@ -8,7 +8,7 @@
 
 <style>
 a:link {
-    color: white; 
+    color: green; 
     background-color: transparent; 
     text-decoration: none;
 }
